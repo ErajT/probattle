@@ -49,8 +49,8 @@ const AppLayout = () => {
         
         <Routes>
           {/* ROutes without layout */}
-          <Route path="/login" element={<Login />} />       
-          <Route path="/" element={<Landing />} />
+          <Route path="/" element={<Login />} />       
+          <Route path="/login" element={<Landing />} />
 
 
         <Route element={<Layout />}>
