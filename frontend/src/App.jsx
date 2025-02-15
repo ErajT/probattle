@@ -13,7 +13,7 @@ import ViewCollectionp from "./Pages/CreateCollab/ViewCollectionp";
 import RoleAuthorizer from "./components/RoleAuthorizer";
 import { Toaster } from "react-hot-toast";
 import { ToastContainer } from "react-toastify";
-import Test from "./Pages/Test";
+// import Test from "./Pages/Test";
 import VIewPublic from "./Pages/ViewAll/VIewPublic";
 import IndividualCollection from "./Pages/ViewOne/IndividualCollection";
 
