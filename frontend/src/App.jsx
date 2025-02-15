@@ -48,10 +48,6 @@ const AppLayout = () => {
         <Toaster />
         
         <Routes>
-
-          <Route path="/login" element={<UserHome/>} />
-          <Route path="/" element={<Login />} />
-
           {/* ROutes without layout */}
           <Route path="/login" element={<Login />} />       
           <Route path="/" element={<Landing />} />
